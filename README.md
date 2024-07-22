@@ -1,4 +1,4 @@
-# PDF Text Extractor
+# PDF Text Scraper
 
 This Flask application extracts text from the first two pages of uploaded PDF files using Azure Document Intelligence and the Read Model.
 
